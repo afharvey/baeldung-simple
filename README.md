@@ -1,2 +1,7 @@
 # baeldung-simple
-Spring Boot Tutorial – Bootstrap a Simple Application https://www.baeldung.com/spring-boot-start
+
+https://www.baeldung.com/spring-boot-start
+
+Spring Boot Tutorial – Bootstrap a Simple Application 
+
+http://localhost:8081/api/movies
